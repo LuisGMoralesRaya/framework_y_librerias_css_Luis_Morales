@@ -4,6 +4,9 @@ html{
   height: 100%;
   background-color: red;
 }
+.a{
+  color: white;
+}
 header{
   margin-bottom: 10px;
 }
@@ -16,10 +19,10 @@ header{
   background-color: red;
 }
 .azul{
-  background-color: blue;
+  background-color: white;
 }
 .celeste{
-  background-color: blue;
+  background-color: white;
 }
 .verde{
   background-color: #489D4A;
@@ -29,7 +32,7 @@ header{
 }
 
 .nav{
-  background-color: orange;
+  background-color: blue;
   border-radius: 10px;
 }
 
